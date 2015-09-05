@@ -15,3 +15,8 @@ body {
     border-width: 0 1px 1px 1px;
     overflow: hidden;
 }
+
+#map {
+    width: 500px;
+    height: 300px;
+}
